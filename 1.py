@@ -44,7 +44,7 @@
 #FirstDigit=x//10
 #SecDigit=x%10
 #Sum=FirstDigit+SecDigit
-#Reverse=str(SecDigit)+str(FirstDigit)
+#Reverse=int(str(SecDigit)+str(FirstDigit))
 #print(f"the sum of digits is {Sum} \nthe reverse of the digit is {Reverse}")
 
 #10
