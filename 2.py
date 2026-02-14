@@ -11,8 +11,8 @@
 #FG=int(input("please enter your first garde:" ))
 #SG=int(input("please enter your second garde:" ))
 #TG=int(input("please enter your third garde:" ))
-#FG=int(input("please enter your forth garde:" ))
-#Sum=(FG+SG+TG+FG)/4
+#FoG=int(input("please enter your forth garde:" ))
+#Sum=(FG+SG+TG+FoG)/4
 #if Sum>18:
 #    print("A")
 #elif Sum>16:
